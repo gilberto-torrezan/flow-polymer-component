@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "authors": [
+    "Alex Tomasello <alex.tomasello@axians.it>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^2.3.1",
+    "webcomponentsjs": "^1.1.0"
+  }
+}
